@@ -1,0 +1,14 @@
+A few more topics where I felt most of the questions were focused were as follows:
+
+Basics and fundamentals of cloud computing with AWS, the access control IAM, S3 buckets, 
+EC2 instances, and its pricing models, Autoscaling of EC2
+Database services offered by AWS, Amazon Redshift, and Amazon Aurora. 
+Non-relational databases like DynamoDB and Redis
+Network related services such as Virtual Private Cloud (VPC), Virtual Private Networks, 
+NAT, Internet Gateway, Transit Gateway
+Services related to monitoring and auditing such as CloudTrail, CloudWatch
+Best practices related to AWS Security and Compliance
+Concepts of Availability Zones, Regions, Edge Locations and how each of the services is related 
+to these concepts
+Services which are free and paid services
+AWS Serverless services like Lambda
