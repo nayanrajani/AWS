@@ -1,0 +1,20 @@
+Useful links to AWS Solution Architect Associate CA-02
+
+- https://www.youtube.com/watch?v=Y2phsAJhRk0&ab_channel=JustFreeTech
+
+- https://www.youtube.com/watch?v=7sOSkgWR2As&ab_channel=DigitalCloudTraining
+
+- https://notes.arkalim.org/notes/notes/
+
+- https://chercher.tech/aws-certification/aws-certified-solutions-architect-associate-practice-exams-set-3 
+[change the numbers for more papers]
+
+- https://www.flashcardmachine.com/sa-tutorialdojopractice.html
+
+- https://github.com/simplesteph/AWS-SAA-C02-Study-Guide#elastic-block-store-ebs
+
+- https://www.youtube.com/watch?v=5OBnnZEYJXc&list=PL_0RK_1F4sTAV9h85fbCOKL5mY-j3v9qk&index=3&ab_channel=CloudGuru
+
+- https://www.youtube.com/watch?v=RQGOb80yS-M&ab_channel=CloudAcademy
+
+- https://cloud.in28minutes.com/aws-certification-aws-storage-gateway
