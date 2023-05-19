@@ -1,6 +1,6 @@
 # AWS Resilience Hub
 
-### Prepare and protection your application from disruption with AWS Resilience Hub
+### Prepare and protection your application - from disruption with AWS Resilience Hub
 
 - Failures are given, and everthing will eventually fail over time
   - werner vogels
@@ -53,12 +53,21 @@
 
 - Lunch
 
-- 
+- Resilience Hub Workshop
+  - https://catalog.us-east-1.prod.workshops.aws/join?access-code=8dc7-07ebb2-d4
+  - 34 - 36
+
+- 37 - Backup & Restore
+- 38 - Pilot Light
+- 39 - Warm Standby
+- 40 - Hot Standby
+- 41 - Common disaster recovery challenges
+- 42 - AWS Elastic disaster recovery Benefits
+- 43 - AWS Elastic disaster recovery Lifecycle
+- 44 - AWS Elastic disaster recovery Works
+- 45 - Wide platform Support
 
 - QnA
-quality of application
-from Puneet Arora to everyone:    8:52 AM
-Please feel free to ask questions during the session in chat window
 from Barathkumar to everyone:    8:56 AM
 what are the cost implications involved
 from Puneet Arora to everyone:    8:56 AM
@@ -101,3 +110,156 @@ from Natarajan Elayappan to everyone:    9:36 AM
 Resilience Hub supports the Amazon EKS
 from Sankar to everyone:    9:36 AM
 @ Kenneth, Yes AWS EDR will support Microsoft Exchange . We will deepdive into this and will understnd more about the usecase. 
+from Minh Le to everyone:    9:38 AM
+Thank AWS Team!
+from Minh Le to everyone:    9:39 AM
+Please help to send the feedback to the chat :D 
+from Minh Le to everyone:    9:39 AM
+*I mean the link. Thank you!
+from Natarajan Elayappan to everyone:    9:39 AM
+sure
+from Puneet Arora to everyone:    9:40 AM
+Survey Link : https://survey.immersionday.com/300ldfU4R
+
+from Minh Le to everyone:    10:01 AM
+:+1:
+from Natarajan Elayappan to everyone:    10:01 AM
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=8dc7-07ebb2-d4
+from Puneet Arora to everyone:    10:02 AM
+Lab Link : https://catalog.us-east-1.prod.workshops.aws/join?access-code=8dc7-07ebb2-d4
+from SURANJAN NANDI to everyone:    10:06 AM
+yes
+from Nayan Rajani to everyone:    10:06 AM
+Successfully Logged in to console
+from Nayan Rajani to everyone:    10:10 AM
+Success for me!
+from Natarajan Elayappan to everyone:    10:10 AM
+good
+from SURANJAN NANDI to everyone:    10:12 AM
+update complete
+from Raguraman Manoharan to everyone:    10:13 AM
+i am behind
+from Ankit to everyone:    10:13 AM
+Do we need to perform this in our own account?
+from Natarajan Elayappan to everyone:    10:13 AM
+No need
+from Natarajan Elayappan to everyone:    10:13 AM
+Skip this step :Using your own account
+from Natarajan Elayappan to everyone:    10:14 AM
+as you are using AWS event account
+from Ankit to everyone:    10:14 AM
+ok. I have logged in to AWS Resilience Immersion Day Workshop console, what's next?
+from Ankit to everyone:    10:14 AM
+ok, thanks
+from Nayan Rajani to everyone:    10:17 AM
+Identify resources, not able to see this page
+from Nayan Rajani to everyone:    10:18 AM
+yes
+from Nayan Rajani to everyone:    10:18 AM
+yes i did
+from SURANJAN NANDI to everyone:    10:18 AM
+Stack [arh-lab-pipeline] already exists
+from marclau to everyone:    10:18 AM
+can i ask in the background, how is the assessment being conducted? does it simulate the scenarios?
+from Nayan Rajani to everyone:    10:19 AM
+okay got it
+from Nayan Rajani to everyone:    10:19 AM
+thanks
+from Nayan Rajani to everyone:    10:19 AM
+we need to choose N virginia right?
+from Natarajan Elayappan to everyone:    10:20 AM
+yes
+from Nayan Rajani to everyone:    10:21 AM
+Published!
+from Natarajan Elayappan to everyone:    10:21 AM
+great
+from Raguraman Manoharan to everyone:    10:21 AM
+cannot unmute
+from Ankit to everyone:    10:21 AM
+Not able to unmute
+from Raguraman Manoharan to everyone:    10:22 AM
+Still no
+from Ankit to everyone:    10:22 AM
+Still no
+from Natarajan Elayappan to everyone:    10:22 AM
+ok
+from Ankit to everyone:    10:23 AM
+Not yet
+from Raguraman Manoharan to everyone:    10:23 AM
+yes
+from SURANJAN NANDI to everyone:    10:23 AM
+no
+from Ankit to everyone:    10:23 AM
+on it
+from Nayan Rajani to everyone:    10:23 AM
+yes
+from Natarajan Elayappan to everyone:    10:24 AM
+thanks
+from SURANJAN NANDI to everyone:    10:24 AM
+https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/prepare-and-protect/2-add-app-to-arh 
+from SURANJAN NANDI to everyone:    10:24 AM
+I see add application instead of add policy
+from SURANJAN NANDI to everyone:    10:25 AM
+ok got it
+from Natarajan Elayappan to everyone:    10:25 AM
+great
+from marclau to everyone:    10:28 AM
+are we able to suppress the recommendation ?
+from marclau to everyone:    10:29 AM
+i believe to be able to achieve "meets" status, we have apply all the recommedation?
+from SURANJAN NANDI to everyone:    10:32 AM
+I can see only one option and not 2 https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/prepare-and-protect/3-resiliency-recommendations
+from Puneet Arora to everyone:    10:35 AM
+The lab is designed to execute Option 1. In real world you can choose
+from marclau to everyone:    10:36 AM
+no
+from Ankit to everyone:    10:37 AM
+Give me 5 mins, need to run lot of commands from cloudshell
+from Minh Le to everyone:    10:37 AM
+In step 3 right now to investigate the report.
+from Prasanna Wamanacharya to everyone:    10:37 AM
+no
+from Puneet Arora to everyone:    10:39 AM
+This tool is currently focused for AWS hosted applications only. You can explore 3rd Party tools for on-prem assessment.
+from Natarajan Elayappan to everyone:    10:42 AM
+https://aws.amazon.com/blogs/mt/resilience-reporting-dashboard-aws-resilience-hub/
+from Ankit to everyone:    10:43 AM
+how much time arh-lab-pipeline will take, it is running from last 4 mins
+from Natarajan Elayappan to everyone:    10:45 AM
+It won't take long , can you refresh and see
+from Prakhyat Munnoli to everyone:    10:46 AM
+AWS Resilience hub pricing is 15$ per app (after free tier). this is independent of number of resources an application can have, correct?
+from Raguraman Manoharan to everyone:    10:47 AM
+I still see Compliance status is policy breached
+from Raguraman Manoharan to everyone:    10:47 AM
+its for the NAT gateway resource
+from Raguraman Manoharan to everyone:    10:47 AM
+Failed in Availability Zone
+from Puneet Arora to everyone:    10:48 AM
+@prakhyat - that correct
+from Prakhyat Munnoli to everyone:    10:48 AM
+also, is there an option to see the cost to implement the recommendations at resource level? presume the one shown on recommendation page is consolidated
+from Natarajan Elayappan to everyone:    10:49 AM
+@Raguraman  - Can you please re-assess your applications  and do the recommend settings again
+from Prakhyat Munnoli to everyone:    10:49 AM
+and alternatively, can recommendations be fixed only for certain layers of the application
+from Prakhyat Munnoli to everyone:    10:50 AM
+say db layer and app layer later
+from Puneet Arora to everyone:    10:50 AM
+@prakhyat - Yes the recommendation does show cost for additional resoources 
+from Puneet Arora to everyone:    10:50 AM
+estimated* cost
+from Raguraman Manoharan to everyone:    10:53 AM
+I can see that NAT gateway deployed it in both the AZ . I can see the resources in application structure. Not sure why the Assesment is still fail
+from Natarajan Elayappan to everyone:    10:53 AM
+Resilience Hub LAB URL :https://catalog.us-east-1.prod.workshops.aws/join?access-code=8dc7-07ebb2-d4
+from Raguraman Manoharan to everyone:    11:19 AM
+how the revese replication work? DR to PROD
+from Raguraman Manoharan to everyone:    11:19 AM
+ok
+from Ankit to everyone:    11:20 AM
+In backend is it using AWS MGN service?
+from Sankar to everyone:    11:22 AM
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=88b6-073119-f0
+from Puneet Arora to everyone:    11:22 AM
+Please Use Incognito window to run the current lab
