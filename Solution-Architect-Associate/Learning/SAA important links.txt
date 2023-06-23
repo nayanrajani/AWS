@@ -18,3 +18,5 @@ Useful links to AWS Solution Architect Associate CA-02
 - https://www.youtube.com/watch?v=RQGOb80yS-M&ab_channel=CloudAcademy
 
 - https://cloud.in28minutes.com/aws-certification-aws-storage-gateway
+
+- Slides-> https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9/
